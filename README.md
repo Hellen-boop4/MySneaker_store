@@ -12,9 +12,10 @@ A responsive landing page for a fictional sneaker store, built using HTML, CSS, 
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3  
-- Bootstrap 5  
+- CSS
+- Bootstrap 
 - Font Awesome
+-Google Fonts
 
 ## 📁 Files
 
